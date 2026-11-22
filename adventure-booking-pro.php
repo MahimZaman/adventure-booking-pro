@@ -4,7 +4,8 @@
  * Description: A professional adventure booking plugin for WordPress.
  * Version: 1.0.0
  * Author: Mahim Zaman
- * Author URI: https://www.mahimzaman.com
+ * Plugin URI: https://condixia.com
+ * Author URI: https://mahimzaman.com
  * Text Domain: adventure-booking-pro
  */
 
